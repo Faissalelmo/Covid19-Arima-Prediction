@@ -78,7 +78,7 @@ The dataset contains daily COVID-19 statistics from Morocco and includes the fol
 
 ## 📎 Live Notebook
 
-👉 [**Open the Jupyter Notebook on GitHub**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Project%202_Personalized%20Machine%20Learning%20COVID-19%20Cases.ipynb)
+👉 [**Open the Jupyter Notebook on GitHub**](https://github.com/Faissalelmo/Covid19-Arima-Prediction/blob/main/Project%202_Personalized%20Machine%20Learning%20COVID-19%20Cases.ipynb)
 
 ---
 
